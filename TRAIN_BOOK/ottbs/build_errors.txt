@@ -1,0 +1,62 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------------< com.train:ottbs >---------------------------
+[INFO] Building ottbs 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- resources:3.4.0:resources (default-resources) @ ottbs ---
+[INFO] Copying 2 resources from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.8.0:compile (default-compile) @ ottbs ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to E:\STUDIES\JAVA-MP\MINIPROJECT 2\TRAIN_BOOK\ottbs\target\classes
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR : 
+[INFO] -------------------------------------------------------------
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[1,1] illegal character: '\ufeff'
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[1,10] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[3,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[4,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[5,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[6,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[7,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[8,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[9,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[10,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[11,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[13,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[14,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[15,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[16,1] class, interface, or enum expected
+[INFO] 15 errors 
+[INFO] -------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.750 s
+[INFO] Finished at: 2026-05-01T11:38:16+05:30
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.0:compile (default-compile) on project ottbs: Compilation failure: Compilation failure: 
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[1,1] illegal character: '\ufeff'
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[1,10] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[3,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[4,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[5,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[6,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[7,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[8,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[9,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[10,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[11,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[13,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[14,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[15,1] class, interface, or enum expected
+[ERROR] /E:/STUDIES/JAVA-MP/MINIPROJECT 2/TRAIN_BOOK/ottbs/src/main/java/com/train/OnlineTrainBooking.java:[16,1] class, interface, or enum expected
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
